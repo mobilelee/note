@@ -9,3 +9,4 @@
  - 新建python文件
  >```#!/usr/bin/python```
  - 上面那一行是shebang，即执行脚本时通知内容需要执行的解释器 
+- python中一切对象
