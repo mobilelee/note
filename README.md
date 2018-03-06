@@ -1,3 +1,2 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 随笔记录
+- 用于记录学习过程中的各种重点疑点难点记录
