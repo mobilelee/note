@@ -32,6 +32,9 @@
  
 
 - python文件结构
+```
+#usr/bin/env python
+```
 ![](image/4.png)
  
 
