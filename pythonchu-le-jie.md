@@ -8,6 +8,8 @@
 - python运行
 ![](image/0.png)
 
+- python程序文件
+![](/image/1.png)
 - python源程序文件通常易.py结尾
  - 新建python文件
  >```#!/usr/bin/python```
