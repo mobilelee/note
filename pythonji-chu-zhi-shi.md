@@ -31,3 +31,12 @@
  - 元祖，列表以及字符串等数据类型是有“大小的”，其长度可以用内置函数len()来测量
  
 
+- python文件结构
+```
+  #/user/bin/ env python
+  *this is a test module*
+  import sys
+  import 
+```
+ 
+
