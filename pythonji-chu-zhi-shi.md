@@ -32,11 +32,6 @@
  
 
 - python文件结构
-```
-  #/user/bin/ env python
-  *this is a test module*
-  import sys
-  import 
-```
+![](image/4.png)
  
 
