@@ -25,11 +25,11 @@
   - 基础数据类型、封装类型及默认值
  
    
-    long(0)               Long(null)
-    int(0)                  Integer(null)
-    byte(0)               Byte(null)
-    float(0.0)            Float(null)
-    double(0.0)        Double(null)
-    short(0)              Short(null)
-    char(0)                Character(null)
-    boolean(false)    Boolean(null)
+            long(0)               Long(null)
+            int(0)                  Integer(null)
+            byte(0)               Byte(null)
+            float(0.0)            Float(null)
+            double(0.0)        Double(null)
+            short(0)              Short(null)
+            char(0)                Character(null)
+            boolean(false)    Boolean(null)
