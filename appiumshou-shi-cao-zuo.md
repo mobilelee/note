@@ -1,0 +1,3 @@
+- ![](/assets/手势操作5.png)
+- ![](/assets/手势操作0.png)
+- ![](/assets/手势操作1.png)

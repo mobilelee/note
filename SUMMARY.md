@@ -9,4 +9,5 @@
 * [20180323碰到的问题以及解决方案](20180323peng-dao-de-wen-ti-yi-ji-jie-jue-fang-an.md)
 * [Linux初学](linuxchu-xue.md)
 * [CrazyAppium框架环境配置](crazyappiumkuang-jia-huan-jing-pei-zhi.md)
+* [appium手势操作](appiumshou-shi-cao-zuo.md)
 
