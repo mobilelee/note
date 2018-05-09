@@ -9,3 +9,5 @@
 - ![](/assets/mac下真机webdriveragent编译.pdf)
 - mac下appium桌面版的查看ios元素信息（/assets/mac下appium桌面版的查看ios元素信息）
 - ![](/assets/mac下appium桌面版的查看ios元素信息.pdf)
+
+- 框架在mac上运行iOS用例的时候在java环境内单独配置类的环境变量
