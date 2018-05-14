@@ -11,3 +11,7 @@
 - ![](/assets/mac下appium桌面版的查看ios元素信息.pdf)
 
 - 框架在mac上运行iOS用例的时候在java环境内单独配置类的环境变量
+ - 在将要运行的类上面右键，选择run config--》在environment里面配置PATh，然后点击apply，点击应用应该就能运行
+ - ![](/assets/run.png)
+ - ![](/assets/QQ图片20180514164558.png)
+ 
